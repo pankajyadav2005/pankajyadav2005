@@ -1,0 +1,9 @@
+{
+  "name": "railway-app",
+  "version": "1.0.0",
+  "description": "Simple Railway deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
